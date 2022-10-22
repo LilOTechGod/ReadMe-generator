@@ -24,7 +24,13 @@ There are a couple steps you first must install in order to make the generator w
 
 ## Usage
 
+Here's a quick demonstration of how to use the ReadMe generator. Hope you enjoy it!
 
+[Untitled_ Oct 21, 2022 7_28 PM.webm](https://user-images.githubusercontent.com/112797175/197308304-69529699-79a1-4bef-926d-eb94d713b438.webm)
+
+[Untitled_ Oct 21, 2022 7_30 PM.webm](https://user-images.githubusercontent.com/112797175/197308308-594d6854-91f7-4f14-9aac-1ede0a07ba50.webm)
+
+[Untitled_ Oct 21, 2022 7_32 PM.webm](https://user-images.githubusercontent.com/112797175/197308312-67a47a28-8eb3-4884-a90d-a9214360bf17.webm)
 
 ## Credits
 
