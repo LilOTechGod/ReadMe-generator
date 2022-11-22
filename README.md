@@ -1,4 +1,4 @@
-# ReadMe-skeloton-using-1-language-challenge
+# ReadMe-generator
 
 ## Description
 
