@@ -2,7 +2,7 @@
 
 ## Description
 
-After another challenging week of continous learning. I came across node which allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. I found this quite difficult due to the fact that I was tranitioning into ES6. In order to fully understand this concept, I challenged myself by creating a read me generator using the integrated terminal. Not only will this provide more hands on experience which is the best way I learn but, it combines everything I've learned in the past 2 weeks into one project. Every day I encounter a setback but with perseverance and motivation I over come and fascinate myself with what else can I learn!
+Creating a read me generator using the integrated terminal. After another challenging week of continous learning. I came across node which allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. I found this quite difficult due to the fact that I was tranitioning into ES6. In order to fully understand this concept, I challenged myself by Not only will this provide more hands on experience which is the best way I learn but, it combines everything I've learned in the past 2 weeks into one project. Every day I encounter a setback but with perseverance and motivation I over come and fascinate myself with what else can I learn!
 
 ## Table of Contents
 
